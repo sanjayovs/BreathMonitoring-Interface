@@ -1,0 +1,28 @@
+Log started on 5/23/2022
+Connected to Server at 17:58:52
+17:59:1:Device Configured
+UID: dfadsfads
+Mode: Breath
+Trial: 1
+Duration: 8 seconds
+Sampling Rate: 1000
+Buffer Size: 1000
+User: Sanjay Sarma O V
+-----------------------------------
+Selected MCC 118 HAT device at address:0
+Device in continous scan mode
+Channels: 0, 1, 2,  
+Requested Scan Rate: 1000 
+Actual Scan Rate: 1000.0 
+17:59:2:Recording Started
+17:59:3:Time Elapsed (s):1 of 8
+17:59:4:Time Elapsed (s):2 of 8
+17:59:5:Time Elapsed (s):3 of 8
+17:59:6:Time Elapsed (s):4 of 8
+17:59:7:Time Elapsed (s):5 of 8
+17:59:8:Time Elapsed (s):6 of 8
+17:59:9:Time Elapsed (s):7 of 8
+17:59:10:Time Elapsed (s):8 of 8
+17:59:10:Recording Ended 
+Data Recording Complete for a Duration of 8s
+Final Data Frame Size:(8000, 4)

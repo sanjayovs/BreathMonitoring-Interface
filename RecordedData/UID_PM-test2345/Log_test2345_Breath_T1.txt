@@ -1,0 +1,50 @@
+Log started on 2/4/2022
+Connected to Server at 17:17:17
+17:17:33:Device Configured
+UID: test2345
+Mode: Breath
+Trial: 1
+Duration: 30 seconds
+Sampling Rate: 1000
+Buffer Size: 1000
+User: Sanjay Sarma O V
+-----------------------------------
+Selected MCC 118 HAT device at address:0
+Device in continous scan mode
+Channels: 0, 1, 2,  
+Requested Scan Rate: 1000 
+Actual Scan Rate: 1000.0 
+17:17:34:Recording Started
+17:17:35:Time Elapsed (s):1 of 30
+17:17:36:Time Elapsed (s):2 of 30
+17:17:37:Time Elapsed (s):3 of 30
+17:17:38:Time Elapsed (s):4 of 30
+17:17:39:Time Elapsed (s):5 of 30
+17:17:40:Time Elapsed (s):6 of 30
+17:17:41:Time Elapsed (s):7 of 30
+17:17:42:Time Elapsed (s):8 of 30
+17:17:43:Time Elapsed (s):9 of 30
+17:17:44:Time Elapsed (s):10 of 30
+17:17:45:Time Elapsed (s):11 of 30
+17:17:46:Time Elapsed (s):12 of 30
+17:17:47:Time Elapsed (s):13 of 30
+17:17:48:Time Elapsed (s):14 of 30
+17:17:49:Time Elapsed (s):15 of 30
+17:17:50:Time Elapsed (s):16 of 30
+17:17:51:Time Elapsed (s):17 of 30
+17:17:52:Time Elapsed (s):18 of 30
+17:17:53:Time Elapsed (s):19 of 30
+17:17:54:Time Elapsed (s):20 of 30
+17:17:55:Time Elapsed (s):21 of 30
+17:17:56:Time Elapsed (s):22 of 30
+17:17:57:Time Elapsed (s):23 of 30
+17:17:58:Time Elapsed (s):24 of 30
+17:17:59:Time Elapsed (s):25 of 30
+17:18:0:Time Elapsed (s):26 of 30
+17:18:1:Time Elapsed (s):27 of 30
+17:18:2:Time Elapsed (s):28 of 30
+17:18:3:Time Elapsed (s):29 of 30
+17:18:4:Time Elapsed (s):30 of 30
+17:18:5:Recording Ended 
+Data Recording Complete for a Duration of 30s
+Final Data Frame Size:(30000, 4)

@@ -1,0 +1,19 @@
+clc;
+clear all;
+close all;
+
+ClientConnection=tcpserver("0.0.0.0",9000);
+
+if ClientConnection.Connected
+    
+
+
+end
+
+function stringData = ComsDataRead(ClientConnection)
+    stringData=char(read(ClientConnection));
+end
+
+function ComsDataWrite(ClientConnection,sendString)
+    write(ClientConnection,sendString);
+end

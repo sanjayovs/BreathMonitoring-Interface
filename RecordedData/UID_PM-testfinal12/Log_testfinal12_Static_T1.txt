@@ -1,0 +1,40 @@
+Log started on 5/23/2022
+Connected to Server at 18:47:39
+18:57:52:Device Configured
+UID: testfinal12
+Mode: Static
+Trial: 1
+Duration: 20 seconds
+Sampling Rate: 1000
+Buffer Size: 1000
+User: Sanjay Sarma O V
+-----------------------------------
+Selected MCC 118 HAT device at address:0
+Device in continous scan mode
+Channels: 0, 1, 2,  
+Requested Scan Rate: 1000 
+Actual Scan Rate: 1000.0 
+18:57:53:Recording Started
+18:57:54:Time Elapsed (s):1 of 20
+18:57:55:Time Elapsed (s):2 of 20
+18:57:56:Time Elapsed (s):3 of 20
+18:57:57:Time Elapsed (s):4 of 20
+18:57:58:Time Elapsed (s):5 of 20
+18:57:59:Time Elapsed (s):6 of 20
+18:58:0:Time Elapsed (s):7 of 20
+18:58:1:Time Elapsed (s):8 of 20
+18:58:2:Time Elapsed (s):9 of 20
+18:58:3:Time Elapsed (s):10 of 20
+18:58:4:Time Elapsed (s):11 of 20
+18:58:5:Time Elapsed (s):12 of 20
+18:58:6:Time Elapsed (s):13 of 20
+18:58:7:Time Elapsed (s):14 of 20
+18:58:8:Time Elapsed (s):15 of 20
+18:58:9:Time Elapsed (s):16 of 20
+18:58:10:Time Elapsed (s):17 of 20
+18:58:11:Time Elapsed (s):18 of 20
+18:58:12:Time Elapsed (s):19 of 20
+18:58:13:Time Elapsed (s):20 of 20
+18:58:13:Recording Ended 
+Data Recording Complete for a Duration of 20s
+Final Data Frame Size:(20000, 4)
